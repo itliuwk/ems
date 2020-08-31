@@ -1,0 +1,332 @@
+.dl {
+  display: inline-block;
+}
+
+.df {
+  display: flex;
+}
+
+.ov {
+  overflow: hidden;
+}
+
+.idcard {
+  height: 100%;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmAAAAFTCAYAAACebbBOAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA25pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1ZDQyNGM0MS1lZDljLWZiNDYtYTk3YS02OWUzMjA3ZGU0NzMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MkJBOUI0RTg1RThEMTFFQUJEREE4NjM1NjVEMDgxMkYiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MkJBOUI0RTc1RThEMTFFQUJEREE4NjM1NjVEMDgxMkYiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NjFCNDhDMkNENTIzMTFFOUJGOTdCQzU1NDVGMUFGNEQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NjFCNDhDMkRENTIzMTFFOUJGOTdCQzU1NDVGMUFGNEQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4+UwXMAAAHL0lEQVR42uzdsW0cRxSA4XkzSyp25goYqgUV4RIIsAIXoAIMFiCAJbgH16DIkCNnzkzYgAGRuzOemeXpmGoJMOH3kbt3t3eXTPTj3ZAXH27vW3qBL5+uEwDAW3J1c/ei98cIsM+//PRXSq3Vum6tbnXcS622fqlZYgCAI5UVkSL3c86RS855KePi+59//XHZX9GTa3tY67b1AHvcWpsR1lIVYAAAh4z2mgFWeoBdlFRqy+Vyttc8jcnXiK9av65zAratWzMBAwA4rj4FWFlKpN5V6V1Ksca3AJvRNSZf43Z9XFtb++P+O18MAMD3yilHyv0YA60lLS2N1sr5HGCjttpp8rX2DFt7e9UxArN6AAAH9JgaGZbLSK4tthY55j77U4CNDfftdIzuGvFV1zY+g7R8AABHjF34ywirSLF31vwjx3OAtX3D/Xhqv5NmfNkDBgBwSIv9PNqqPGutcTVbHgCA1yXAAAAEGACAAAMAQIABAAgwAAAEGACAAAMAoCsPf/7x8eG/f/5udd2/jqht+z8Ja74HEgDgsHj6Mu5+5Cj9VHIuS/n3999+MAEDAHhlAgwAQIABAAgwAAAEGACAAAMAQIABAAgwAAAEGACAAAMAEGAAAAgwAAABBgCAAAMAEGAAAAgwAAABBgAgwAAAEGAAAAIMAAABBgAgwAAAEGAAAAIMAECAAQAgwAAABBgAAAIMAECAAQAgwAAABBgAgAADAECAAQAIMAAABBgAgAADAECAAQAIMAAAAQYAgAADABBgAAAIMAAAAQYAgAADABBgAAACDAAAAQYAIMAAABBgAAACDAAAAQYAIMAAAAQYAAACDABAgAEAIMAAAAQYAAACDABAgAEACDAAAAQYAIAAAwBAgAEACDAAAAQYAIAAAwAQYAAACDAAAAEGAIAAAwAQYAAACDAAAAEGACDAAAAQYAAAAgwAAAEGACDAAAAQYAAAAgwAQIABACDAAAAEGAAAAgwAQIABACDAAAAEGAAAAgwAQIABAAgwAAAEGACAAAMAQIABAAgwAAAEGACAAAMAEGAAAAgwAAABBgCAAAMAEGAAAAgwAAABBgAgwAAAEGAAAAIMAAABBgAgwAAAEGAAAAIMAECAAQAgwAAABBgAAAIMAECAAQAgwAAABBgAgAADAECAAQAIMAAABBgAgAADAECAAQAIMAAAAQYAgAADABBgAAAIMAAAAQYAgAADABBgAAACDAAAAQYAIMAAABBgAAACDAAAAQYAIMAAAAQYAAACDABAgAEAIMAAAAQYAAACDABAgAEACDAAAAQYAIAAAwBAgAEACDAAAAQYAIAAAwAQYAAACDAAAAEGAIAAAwAQYAAACDAAAAEGACDAAAAQYAAAAgwAAAEGACDAAAAQYAAAAgwAQIABACDAAAAEGAAAAgwAQIABACDAAAAEGAAAAgwAQIABAAgwAAAEGACAAAMAQIABAAgwAAAEGACAAAMAEGAAAAgwAAABBgCAAAMAEGAAAAgwAAABBgAgwAAAEGAAAAIMAAABBgAgwAAAEGAAAAIMAECAAQAgwAAABBgAAAIMAECAAQAgwAAABBgAgAADAECAAQAIMAAABBgAgAADAECAAQAIMAAAAQYAgAADABBgAAAIMAAAAQYAgAADABBgAAACDAAAAQYAIMAAABBgAAACDAAAAQYAIMAAAAQYAAACDABAgAEAIMAAAAQYAAACDABAgAEACDAAAAQYAIAAAwBAgAEACDAAAAQYAIAAAwAQYAAACDAAAAEGAIAAAwAQYAAACDAAAAEGACDAAAAQYAAAAgwAAAEGACDAAAAQYAAAAgwAQIABACDAAAAEGAAAAgwAQIABACDAAAAEGAAAAgwAQIABAAgwAAAEGACAAAMAQIABAAgwAAAEGACAAAMAEGAAAAgwAAABBgCAAAMAEGAAAAgwAAABBgAgwAAAEGAAAAIMAAABBgAgwAAAEGAAAAIMAECAAQAgwAAABBgAAAIMAECAAQAgwAAABBgAgAADAECAAQAIMAAABBgAgAADAECAAQAIMAAAAQYAgAADABBgAAAIMAAAAQYAgAADABBgAAACDAAAAQYAIMAAADgeYFc3d1YBAOCVjPYyAQMAeGUCDABAgAEACDAAAAQYAIAAAwBAgAEACDAAALplniMi5X7UiNzv1FTnxRYWCADgiJiB1ROrt9W31hq35wDrV56OlPsxT0uvMAkGAHAwwEZS5cjPOmscpwCL+UzJUZaSWmsl9/RKdUzCmuUDAPh+Y/K1x9cyG2u2Vr9wDrDcL+SLEiO4lv6zxZaittJjzPIBABwQsU++RnydWiuXc4DlvJRUxrTrXWrpcWv9xa31x1WAAQAckp8CLPb4yqWU2VynAJsfQpbLJcUarebc46umEWAmYAAAx8w9+HPvVx6Trz2+9k348eH2/kWR9eXTtQUGAN6Uq5u7F73/fwEGAA/JPjdX23qXAAAAAElFTkSuQmCC)
+    no-repeat;
+  background-size: 100% 100%;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  // font-size: 14px;
+}
+
+/*滚动条设置，仅对chrome生效*/
+/*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+  // background-color: #f5f5f5;
+}
+
+/*定义滚动条轨道 内阴影+圆角*/
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #090a24;
+}
+
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #18233c !important;
+}
+
+.el-scrollbar__wrap::-webkit-scrollbar-track {
+  background-color: #fff !important;
+}
+
+.el-scrollbar__wrap::-webkit-scrollbar-thumb {
+  background-color: #fff !important;
+}
+.el-scrollbar__view::-webkit-scrollbar-track {
+  background-color: #fff !important;
+}
+
+.el-scrollbar__view::-webkit-scrollbar-thumb {
+  background-color: #fff !important;
+}
+.el-scrollbar__bar::-webkit-scrollbar-track {
+  background-color: #fff !important;
+}
+
+.el-scrollbar__bar::-webkit-scrollbar-thumb {
+  background-color: #fff !important;
+}
+
+.el-scrollbar__wrap {
+  overflow-x: hidden;
+}
+
+.el-scrollbar__thumb {
+  background-color: #18233c;
+}
+.curp {
+  cursor: pointer;
+}
+
+.otw {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pTit {
+  max-width: 200px;
+  line-height: 30px;
+  background: rgba(0, 160, 233, 0.2);
+  border: 1px solid rgba(0, 160, 233, 1);
+  font-size: 14px;
+  font-weight: bold;
+  text-indent: 1em;
+  color: rgba(0, 160, 233, 1);
+}
+
+.el-select .el-input.is-focus .el-input__inner {
+  border-color: #409eff;
+}
+
+.el-input__inner {
+  font-size: 14px;
+  color: #309dfc;
+  background-color: #070824;
+  border-color: #409eff;
+}
+
+.el-popper[x-placement^="bottom"] .popper__arrow {
+  border-bottom-color: #0d0e3b;
+}
+
+.el-popper[x-placement^="bottom"] .popper__arrow::after {
+  border-bottom-color: #0d0e3b;
+}
+
+.el-date-range-picker[x-placement^="bottom"] .popper__arrow {
+  border-bottom-color: #ebeef5;
+}
+
+.el-date-range-picker[x-placement^="bottom"] .popper__arrow::after {
+  border-bottom-color: #ebeef5;
+}
+
+.el-select-dropdown {
+  background-color: #060723;
+  border-color: #0d0e3b;
+}
+
+.el-select-dropdown__item.hover,
+.el-select-dropdown__item:hover {
+  background-color: #0a0b2d;
+  color: #3bbaed;
+}
+
+.sel120 {
+  width: 120px;
+}
+
+.bgBorder {
+  height: 100% !important   ;
+  background-size: 100% 100% !important;
+  padding: 12px !important;
+  -webkit-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+}
+
+.customer-b {
+  background: #02031c !important;
+  border: 1px solid #00a0e9;
+  max-height: 500px;
+  overflow: auto;
+}
+
+[v-cloak] {
+  display: none;
+}
+
+.svg-pan-zoom_viewport {
+  width: 100%;
+  height: 100%;
+}
+
+// .textFz {
+//   // font-size: 16px;
+//   // font-weight: bold;
+// }
+
+// @media screen and(max-width:1650px) {
+//   .svg-pan-zoom_viewport {
+//     transform: matrix(0.772627, 0, 0, 0.772627, 149.716, 9.57251) !important;
+//   }
+// }
+
+.path1 {
+  #icon-test_s1 {
+    offset-path: path("M0 0 L1250 0");
+    offset-distance: 0;
+    animation: red-ball 8s linear normal infinite;
+  }
+  /* 市电——STS——PCS——电池组 */
+  #icon-test_s2 {
+    offset-path: path("M0 0 L318 0 M509 -108 L509 198");
+    offset-distance: 0%;
+    animation: red-ball 13s linear normal infinite;
+  }
+  /* 市电——STS——ACDC——负载 */
+  #icon-test_s3 {
+    offset-path: path("M0 0 L1100 0 M1288 -108 L1288 100");
+    offset-distance: 0%;
+    animation: red-ball 15s linear normal infinite;
+  }
+  #icon-test_s4 {
+    display: none;
+  }
+}
+
+.path2 {
+  /* 电池组——PCS——STS——市电 */
+  #icon-test_s1 {
+    offset-path: path("M443 500 L443 190 M630 66 L290 66");
+    offset-distance: 0;
+    animation: red-ball 8s linear normal infinite;
+  }
+  /* 电池组——PCS——空调 */
+  #icon-test_s2 {
+    offset-path: path("M443 500 L443 190 M330 0 L1250 0");
+    offset-distance: 0%;
+    animation: red-ball 13s linear normal infinite;
+  }
+  /* 电池组——PCS——ACDC——负载 */
+  #icon-test_s3 {
+    offset-path: path("M443 500 L443 190 M330 0 L1100 0 M1288 -108 L1288 100");
+    offset-distance: 50%;
+    animation: red-ball 10s linear normal infinite;
+  }
+
+  #icon-test_s4 {
+    display: none;
+  }
+}
+
+.path3 {
+  /* 电池组——PCS——空调 */
+  #icon-test_s1 {
+    offset-path: path("M443 500 L443 190 M330 0 L1250 0");
+    offset-distance: 0%;
+    animation: red-ball 13s linear forwards infinite;
+  }
+  /* 电池组——PCS——ACDC——负载 */
+  #icon-test_s2 {
+    offset-path: path("M443 500 L443 190 M330 0 L1100 0 M1288 -108 L1288 100");
+    offset-distance: 50%;
+    animation: red-ball 10s linear normal infinite;
+  }
+  /* 市电——STS——空调 */
+  #icon-test_s3 {
+    offset-path: path("M0 0 L1250 0");
+    offset-distance: 0;
+    animation: red-ball 8s linear normal infinite;
+  }
+  /* 市电——STS——ACDC——负载 */
+  #icon-test_s4 {
+    offset-path: path("M0 0 L1100 0 M1288 -108 L1288 100");
+    offset-distance: 0%;
+    animation: red-ball 15s linear normal infinite;
+  }
+}
+
+.path4 {
+  /* 电池组——PCS——空调 */
+  #icon-test_s1 {
+    offset-path: path("M443 500 L443 190 M330 0 L1250 0");
+    offset-distance: 0%;
+    animation: red-ball 13s linear forwards infinite;
+  }
+  /* 电池组——PCS——ACDC——负载 */
+  #icon-test_s2 {
+    offset-path: path("M443 500 L443 190 M330 0 L1100 0 M1288 -108 L1288 100");
+    offset-distance: 50%;
+    animation: red-ball 10s linear normal infinite;
+  }
+  #icon-test_s3,
+  #icon-test_s4 {
+    display: none;
+  }
+}
+
+.path5 {
+  /* 市电——STS——空调 */
+  #icon-test_s1 {
+    offset-path: path("M0 0 L1250 0");
+    offset-distance: 0;
+    animation: red-ball 8s linear normal infinite;
+  }
+  /* 市电——STS——ACDC——负载 */
+  #icon-test_s2 {
+    offset-path: path("M0 0 L1100 0 M1288 -108 L1288 100");
+    offset-distance: 0%;
+    animation: red-ball 15s linear normal infinite;
+  }
+
+  #icon-test_s3,
+  #icon-test_s4 {
+    display: none;
+  }
+}
+
+.path6 {
+  /* 电池组——PCS——空调 */
+  #icon-test_s1 {
+    offset-path: path("M443 500 L443 190 M330 0 L1250 0");
+    offset-distance: 0%;
+    animation: red-ball 13s linear forwards infinite;
+  }
+  /* 电池组——PCS——ACDC——负载 */
+  #icon-test_s2 {
+    offset-path: path("M443 500 L443 190 M330 0 L1100 0 M1288 -108 L1288 100");
+    offset-distance: 50%;
+    animation: red-ball 10s linear normal infinite;
+  }
+
+  #icon-test_s3,
+  #icon-test_s4 {
+    display: none;
+  }
+}
+
+.path7 {
+  /* 电池组——PCS——空调 */
+  #icon-test_s1 {
+    offset-path: path("M443 500 L443 420  M336 236 L1038 236");
+    offset-distance: 50%;
+    animation: red-ball 10s linear normal infinite;
+  }
+  /* 电池组——PCS——ACDC——负载 */
+
+  #icon-test_s2,
+  #icon-test_s3,
+  #icon-test_s4 {
+    display: none;
+  }
+}
+
+@keyframes red-ball {
+  from {
+    offset-distance: 0%;
+  }
+  to {
+    offset-distance: 100%;
+  }
+}

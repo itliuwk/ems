@@ -1,0 +1,2029 @@
+<svg
+  version="1.1"
+  id="图层_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  width="1540px"
+  height="400px"
+  viewBox="0 0 1540 400"
+  enable-background="new 0 0 1540 400"
+  xml:space="preserve"
+>
+  <g id="sts1" class='addpath'>
+    <g id="line_bg">
+      <line
+        opacity="0.8"
+        fill="none"
+        stroke="#721232"
+        stroke-width="4"
+        stroke-miterlimit="10"
+        enable-background="new    "
+        x1="130"
+        y1="33"
+        x2="1410"
+        y2="33"
+      />
+
+      <line
+        opacity="0.8"
+        fill="none"
+        stroke="#0D5B27"
+        stroke-width="4"
+        stroke-miterlimit="10"
+        enable-background="new    "
+        x1="476"
+        y1="318"
+        x2="476"
+        y2="198"
+      />
+
+      <line
+        opacity="0.8"
+        fill="none"
+        stroke="#721232"
+        stroke-width="4"
+        stroke-miterlimit="10"
+        enable-background="new    "
+        x1="476"
+        y1="155"
+        x2="476"
+        y2="33"
+      />
+
+      <line
+        opacity="0.8"
+        fill="none"
+        stroke="#0D5B27"
+        stroke-width="4"
+        stroke-miterlimit="10"
+        enable-background="new    "
+        x1="1192"
+        y1="269"
+        x2="476"
+        y2="269"
+      />
+
+      <line
+        opacity="0.8"
+        fill="none"
+        stroke="#721232"
+        stroke-width="4"
+        stroke-miterlimit="10"
+        enable-background="new    "
+        x1="1255"
+        y1="101"
+        x2="1255"
+        y2="33"
+      />
+
+      <line
+        opacity="0.8"
+        fill="none"
+        stroke="#0D5B27"
+        stroke-width="4"
+        stroke-miterlimit="10"
+        enable-background="new    "
+        x1="1255"
+        y1="248"
+        x2="1255"
+        y2="142"
+      />
+    </g>
+
+    <linearGradient
+      id="a1"
+      gradientUnits="userSpaceOnUse"
+      x1="451"
+      y1="72"
+      x2="481"
+      y2="72"
+      gradientTransform="matrix(1 0 0 -1 -321 105)"
+    >
+      <stop offset="0" style="stop-color: #ffffff; stop-opacity: 0;" />
+      <stop offset="1" style="stop-color: #ffffff;" />
+    </linearGradient>
+
+    <line
+      id="s1"
+      class='path1'
+      opacity="0.8"
+      fill="none"
+      stroke="url(#a1)"
+      stroke-width="4"
+      stroke-miterlimit="10"
+      enable-background="new    "
+      x1="130"
+      y1="33"
+      x2="160"
+      y2="33"
+    />
+
+    <linearGradient
+      id="a2"
+      gradientUnits="userSpaceOnUse"
+      x1="451"
+      y1="72"
+      x2="481"
+      y2="72"
+      gradientTransform="matrix(1 0 0 -1 -321 105)"
+    >
+      <stop offset="0" style="stop-color: #ffffff; stop-opacity: 0;" />
+      <stop offset="1" style="stop-color: #ffffff;" />
+    </linearGradient>
+
+    <line
+      id="s2"
+      opacity="0.8"
+      fill="none"
+      stroke="url(#a2)"
+      stroke-width="4"
+      stroke-miterlimit="10"
+      enable-background="new    "
+      x1="130"
+      y1="33"
+      x2="160"
+      y2="33"
+    />
+
+    <linearGradient
+      id="a3"
+      gradientUnits="userSpaceOnUse"
+      x1="451"
+      y1="72"
+      x2="481"
+      y2="72"
+      gradientTransform="matrix(1 0 0 -1 -321 105)"
+    >
+      <stop offset="0" style="stop-color: #ffffff; stop-opacity: 0;" />
+      <stop offset="1" style="stop-color: #ffffff;" />
+    </linearGradient>
+
+    <line
+      id="s3"
+      opacity="0.8"
+      fill="none"
+      stroke="url(#a3)"
+      stroke-width="4"
+      stroke-miterlimit="10"
+      enable-background="new    "
+      x1="130"
+      y1="33"
+      x2="160"
+      y2="33"
+    />
+
+    <linearGradient
+      id="a4"
+      gradientUnits="userSpaceOnUse"
+      x1="451"
+      y1="72"
+      x2="481"
+      y2="72"
+      gradientTransform="matrix(1 0 0 -1 -321 105)"
+    >
+      <stop offset="0" style="stop-color: #ffffff; stop-opacity: 0;" />
+      <stop offset="1" style="stop-color: #ffffff;" />
+    </linearGradient>
+
+    <line
+      id="s4"
+      opacity="0.8"
+      fill="none"
+      stroke="url(#a4)"
+      stroke-width="4"
+      stroke-miterlimit="10"
+      enable-background="new    "
+      x1="130"
+      y1="33"
+      x2="160"
+      y2="33"
+    />
+  </g>
+  <g>
+    <g>
+      <path
+        fill="#0C0D27"
+        stroke="#007AFF"
+        stroke-width="2"
+        stroke-miterlimit="10"
+        d="M1308.439,131.16c0,6.075-4.925,11-11,11
+			h-85.75c-6.075,0-11-4.925-11-11v-20.25c0-6.075,4.925-11,11-11h85.75c6.075,0,11,4.925,11,11V131.16z"
+      />
+      <text
+        transform="matrix(1 0 0 1 1222.7476 128.2596)"
+        fill="#007AFF"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="18"
+        class='textFz'
+      >
+        AC~DC
+      </text>
+    </g>
+    <g>
+      <g>
+        <rect
+          x="23.861"
+          y="78.308"
+          fill="#007AFF"
+          width="31.068"
+          height="2.089"
+        />
+        <path
+          fill="#007AFF"
+          d="M23.861,78.308l31.068-11.383v2.089L23.861,80.397V78.308z M27.454,80.095h2.036v3.01h-2.036V80.095z"
+        />
+        <path
+          fill="#007AFF"
+          d="M25.188,82.999h6.586c0.443,0,0.832,0.39,0.832,0.832v0.443c0,0.443-0.389,0.832-0.832,0.832h-6.603
+				c-0.478,0-0.868-0.389-0.868-0.832v-0.443C24.32,83.353,24.71,82.999,25.188,82.999L25.188,82.999z M39.421,80.095h2.054v3.01
+				h-2.054V80.095z"
+        />
+        <path
+          fill="#007AFF"
+          d="M37.155,82.999h6.604c0.477,0,0.867,0.39,0.867,0.832v0.443c0,0.443-0.39,0.832-0.867,0.832h-6.604
+				c-0.443,0-0.832-0.389-0.832-0.832v-0.443C36.323,83.353,36.712,82.999,37.155,82.999L37.155,82.999z M85.076,78.308h31.068
+				v2.089H85.076V78.308z"
+        />
+        <path
+          fill="#007AFF"
+          d="M116.144,78.308L85.076,66.925v2.089l31.068,11.383V78.308z M110.533,80.095h2.036v3.01h-2.036V80.095z"
+        />
+        <path
+          fill="#007AFF"
+          d="M114.834,82.999h-6.603c-0.443,0-0.832,0.39-0.832,0.832v0.443c0,0.443,0.39,0.832,0.832,0.832h6.603
+				c0.478,0,0.867-0.389,0.867-0.832v-0.443C115.701,83.353,115.312,82.999,114.834,82.999L114.834,82.999z M98.512,80.095h2.054
+				v3.01h-2.054V80.095z"
+        />
+        <path
+          fill="#007AFF"
+          d="M102.85,82.999h-6.603c-0.478,0-0.868,0.39-0.868,0.832v0.443c0,0.443,0.39,0.832,0.868,0.832h6.603
+				c0.443,0,0.832-0.389,0.832-0.832v-0.443C103.681,83.353,103.292,82.999,102.85,82.999L102.85,82.999z M84.616,52.055h27.935
+				v2.089H84.616V52.055z"
+        />
+        <path
+          fill="#007AFF"
+          d="M112.551,52.055l-26.714-10.94l-1.221-0.443v2.071l27.935,11.4V52.055z M106.939,53.843h2.036v3.009
+				h-2.036V53.843z"
+        />
+        <path
+          fill="#007AFF"
+          d="M111.24,56.746h-6.603c-0.443,0-0.832,0.39-0.832,0.832v0.443c0,0.443,0.389,0.832,0.832,0.832h6.603
+				c0.478,0,0.868-0.389,0.868-0.832v-0.443C112.108,57.1,111.718,56.746,111.24,56.746L111.24,56.746z M94.936,53.843h2.054v3.009
+				h-2.054V53.843z"
+        />
+        <path
+          fill="#007AFF"
+          d="M99.256,56.746h-6.603c-0.478,0-0.867,0.39-0.867,0.832v0.443c0,0.443,0.389,0.832,0.867,0.832h6.603
+				c0.443,0,0.832-0.389,0.832-0.832v-0.443C100.088,57.1,99.698,56.746,99.256,56.746L99.256,56.746z M27.525,52.055H55.46v2.089
+				H27.525V52.055z"
+        />
+        <path
+          fill="#007AFF"
+          d="M27.525,52.055l26.714-10.94l1.221-0.443v2.071l-27.935,11.4V52.055z M31.119,53.843h2.036v3.009h-2.036
+				V53.843z"
+        />
+        <path
+          fill="#007AFF"
+          d="M28.835,56.746h6.603c0.443,0,0.832,0.39,0.832,0.832v0.443c0,0.443-0.389,0.832-0.832,0.832h-6.603
+				c-0.478,0-0.868-0.389-0.868-0.832v-0.443C27.967,57.1,28.357,56.746,28.835,56.746L28.835,56.746z M43.085,53.843h2.054v3.009
+				h-2.054V53.843z"
+        />
+        <path
+          fill="#007AFF"
+          d="M40.82,56.746h6.603c0.478,0,0.867,0.39,0.867,0.832v0.443c0,0.443-0.389,0.832-0.867,0.832H40.82
+				c-0.443,0-0.832-0.389-0.832-0.832v-0.443C39.987,57.1,40.377,56.746,40.82,56.746L40.82,56.746z M31.668,154.765l21.862-65.34
+				l2.001,0.655l-21.863,65.376L31.668,154.765z M84.616,33.592h2.089V90.08h-2.089V33.592z"
+        />
+        <path
+          fill="#007AFF"
+          d="M53.442,33.592h2.089V90.08h-2.089V33.592z M64.931,13.693h10.267v2.089H64.931V13.693z"
+        />
+        <path
+          fill="#007AFF"
+          d="M53.442,33.592l11.489-19.898l1.823,1.044L55.265,34.636L53.442,33.592z M73.392,14.738l11.507,19.898
+				l1.806-1.044l-11.49-19.899L73.392,14.738z M84.616,90.08l21.863,65.376l2.018-0.691l-21.88-65.341L84.616,90.08z"
+        />
+        <path
+          fill="#007AFF"
+          d="M95.025,117.713L37.81,138.142c-0.389,0.142-0.584,0.567-0.46,0.956c0.142,0.39,0.566,0.584,0.956,0.461
+				l57.197-20.429c0.389-0.142,0.583-0.566,0.46-0.956C95.84,117.784,95.397,117.573,95.025,117.713L95.025,117.713z"
+        />
+        <path
+          fill="#007AFF"
+          d="M45.634,117.82l56.631,20.111c0.389,0.141,0.584,0.566,0.46,0.956c-0.141,0.389-0.566,0.583-0.956,0.46
+				l-56.63-20.128c-0.39-0.142-0.584-0.566-0.461-0.956C44.82,117.891,45.246,117.679,45.634,117.82L45.634,117.82z"
+        />
+        <path
+          fill="#007AFF"
+          d="M53.442,93.408l39.689,18.305c0.372,0.177,0.532,0.62,0.372,0.991c-0.176,0.372-0.619,0.531-0.992,0.372
+				L52.805,94.754c-0.372-0.177-0.532-0.62-0.372-0.991C52.627,93.391,53.07,93.231,53.442,93.408L53.442,93.408z"
+        />
+        <path
+          fill="#007AFF"
+          d="M86.191,93.71l-39.689,18.269c-0.372,0.177-0.531,0.62-0.372,0.992c0.177,0.372,0.62,0.531,0.991,0.372
+				l39.671-18.269c0.372-0.177,0.532-0.62,0.372-0.992C87.006,93.692,86.563,93.532,86.191,93.71L86.191,93.71z"
+        />
+        <path
+          fill="#007AFF"
+          d="M85.501,73.156L53.283,91c-0.354,0.195-0.496,0.655-0.301,1.01c0.194,0.354,0.654,0.495,1.009,0.301
+				l32.236-17.862c0.354-0.195,0.495-0.654,0.301-1.009C86.315,73.085,85.872,72.962,85.501,73.156L85.501,73.156z"
+        />
+        <path
+          fill="#007AFF"
+          d="M54.946,73.404l32.236,17.862c0.354,0.195,0.495,0.655,0.301,1.009c-0.194,0.354-0.655,0.495-1.009,0.301
+				L54.238,74.715c-0.354-0.195-0.496-0.655-0.301-1.01C54.132,73.352,54.592,73.21,54.946,73.404L54.946,73.404z"
+        />
+        <path
+          fill="#007AFF"
+          d="M85.501,53.595L54.45,70.82c-0.353,0.195-0.495,0.655-0.301,1.009c0.195,0.354,0.655,0.496,1.009,0.301
+				L86.21,54.905c0.353-0.195,0.495-0.654,0.301-1.009C86.315,53.524,85.872,53.382,85.501,53.595L85.501,53.595z"
+        />
+        <path
+          fill="#007AFF"
+          d="M54.946,53.843l30.838,17.118c0.354,0.194,0.495,0.655,0.301,1.009c-0.195,0.354-0.655,0.496-1.009,0.301
+				L54.238,55.153c-0.354-0.195-0.496-0.655-0.301-1.009S54.592,53.648,54.946,53.843L54.946,53.843z"
+        />
+        <path
+          fill="#007AFF"
+          d="M85.501,33.396L54.45,50.621c-0.353,0.195-0.495,0.655-0.301,1.009c0.195,0.354,0.655,0.495,1.009,0.301
+				l31.068-17.225c0.354-0.195,0.495-0.655,0.301-1.01C86.315,33.325,85.872,33.202,85.501,33.396L85.501,33.396z"
+        />
+        <path
+          fill="#007AFF"
+          d="M54.946,33.662l30.838,17.119c0.354,0.194,0.495,0.654,0.301,1.009c-0.195,0.355-0.655,0.495-1.009,0.301
+				L54.238,34.972c-0.354-0.195-0.496-0.655-0.301-1.009C54.132,33.592,54.592,33.467,54.946,33.662L54.946,33.662z"
+        />
+      </g>
+      <text
+        transform="matrix(1 0 0 1 43.141 165.3083)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        380V市电
+      </text>
+    </g>
+    <g>
+      <g>
+        <path
+          fill="#007AFF"
+          d="M1469.05,23.487h-56.714c-1.555,0-2.816,1.543-2.816,3.448v89.64c0,1.904,1.26,3.448,2.816,3.448h56.714
+				c1.555,0,2.815-1.543,2.815-3.448v-89.64C1471.865,25.03,1470.604,23.487,1469.05,23.487L1469.05,23.487z M1440.692,67.733
+				c-11.107,0-20.111-1.802-20.111-4.022s9.004-4.022,20.111-4.022c11.108,0,20.111,1.802,20.111,4.022
+				S1451.8,67.733,1440.692,67.733L1440.692,67.733z M1460.804,51.642h-40.223V47.62h40.223V51.642z M1460.804,43.598h-40.223
+				v-4.022h40.223V43.598z M1460.804,35.68h-40.223v-4.022h40.223V35.68z"
+        />
+      </g>
+      <text
+        transform="matrix(1 0 0 1 1428.1854 134.064)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        空调
+      </text>
+    </g>
+    <g>
+      <text
+        transform="matrix(1 0 0 1 1424.0188 156.3974)"
+        fill="#CE206F"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class="KT"
+      >
+        运行中
+      </text>
+    </g>
+    <g>
+      <path
+        fill="#0C0D27"
+        stroke="#007AFF"
+        stroke-width="2"
+        stroke-miterlimit="10"
+        d="M1299.782,279.606c0,6.075-4.925,11-11,11
+			h-85.75c-6.075,0-11-4.925-11-11v-20.25c0-6.075,4.925-11,11-11h85.75c6.075,0,11,4.925,11,11V279.606z"
+      />
+      <text
+        transform="matrix(1 0 0 1 1197.907 276.7059)"
+        fill="#007AFF"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="16"
+        class='textFz'
+      >
+        通讯设备负载
+      </text>
+    </g>
+    <g display="none">
+      <text
+        transform="matrix(1 0 0 1 1150.9712 305.4532)"
+        display="inline"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        负载侧电压
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1145.3182 325.218)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        UA：220V
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1145.7971 343.218)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        UB：220V
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1145.8682 361.218)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        UC：220V
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1245.2252 305.4529)"
+        display="inline"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        负载侧电流
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1249.6312 325.2177)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        IA: 10A
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1250.1102 343.2177)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        IB: 10A
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1250.1823 361.2177)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        IC: 10A
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1345.032 305.4529)"
+        display="inline"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        负载侧功率
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1333.343 325.2177)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        A相：50 kW
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1333.822 343.2177)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        B相：50 kW
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1333.8929 361.2177)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        C相：50 kW
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1331.6069 378.9648)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        总和：50 kW
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1445.1571 305.4529)"
+        display="inline"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        负载侧频率
+      </text>
+
+      <text
+        transform="matrix(1 0 0 1 1458.9541 325.2177)"
+        display="inline"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+      >
+        50Hz
+      </text>
+    </g>
+    <g>
+      <path
+        fill="#0C0D27"
+        stroke="#007AFF"
+        stroke-width="2"
+        stroke-miterlimit="10"
+        d="M904.599,329.063c-6.075,0-11-4.925-11-11
+			v-85.75c0-6.075,4.925-11,11-11h20.25c6.075,0,11,4.925,11,11v85.75c0,6.075-4.925,11-11,11H904.599z"
+      />
+      <text
+        transform="matrix(0 1 -1 0 907.5 240.897)"
+        fill="#007AFF"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="18"
+        class='textFz'
+      >
+        DC~DC
+      </text>
+    </g>
+    <g>
+      <text
+        transform="matrix(1 0 0 1 947.5366 300.5478)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        直流侧电压：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 947.5366 324.5478)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        直流侧电流：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 947.5366 348.5478)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        直流侧功率：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 1029.1196 300.5566)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='ZLCDY'
+      >
+        380V
+      </text>
+      <text
+        transform="matrix(1 0 0 1 1029.1196 324.5566)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='ZLCDL'
+      >
+        10A
+      </text>
+      <text
+        transform="matrix(1 0 0 1 1029.1196 348.5566)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='ZLCGL'
+      >
+        12kW
+      </text>
+    </g>
+    <g>
+      <path
+        fill="#0C0D27"
+        stroke="#007AFF"
+        stroke-width="2"
+        stroke-miterlimit="10"
+        d="M345.372,43.618c0,6.075-4.925,11-11,11h-85.75
+			c-6.075,0-11-4.925-11-11v-20.25c0-6.075,4.925-11,11-11h85.75c6.075,0,11,4.925,11,11V43.618z"
+      />
+      <text
+        transform="matrix(1 0 0 1 274.5531 40.7179)"
+        fill="#007AFF"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="18"
+        class='textFz'
+      >
+        STS
+      </text>
+    </g>
+    <g>
+      <text
+        transform="matrix(1 0 0 1 260.89 78.2992)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        市电侧电压
+      </text>
+      <text
+        transform="matrix(1 0 0 1 255.237 98.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDUA'
+      >
+        UA：220V
+      </text>
+      <text
+        transform="matrix(1 0 0 1 255.716 116.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+         class='SDUB'
+      >
+        UB：220V
+      </text>
+      <text
+        transform="matrix(1 0 0 1 255.787 134.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+         class='SDUC'
+      >
+        UC：220V
+      </text>
+      <text
+        transform="matrix(1 0 0 1 260.89 165.2992)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        市电侧电流
+      </text>
+      <text
+        transform="matrix(1 0 0 1 265.296 185.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDIA'
+      >
+        IA: 10A
+      </text>
+      <text
+        transform="matrix(1 0 0 1 265.775 203.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDIB'
+      >
+        IB: 10A
+      </text>
+      <text
+        transform="matrix(1 0 0 1 265.847 221.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDIC'
+      >
+        IC: 10A
+      </text>
+      <text
+        transform="matrix(1 0 0 1 260.89 249.2992)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        市电侧功率
+      </text>
+      <text
+        transform="matrix(1 0 0 1 249.201 269.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDAX'
+      >
+        A相：50 kW
+      </text>
+      <text
+        transform="matrix(1 0 0 1 249.68 287.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDBX'
+      >
+        B相：50 kW
+      </text>
+      <text
+        transform="matrix(1 0 0 1 249.751 305.064)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDCX'
+      >
+        C相：50 kW
+      </text>
+      <!-- <text
+        transform="matrix(1 0 0 1 247.465 322.8111)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDALLX'
+      >
+        总和：50 kW
+      </text> -->
+      <!-- <text
+        transform="matrix(1 0 0 1 260.89 349.9658)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        市电侧频率
+      </text>
+      <text
+        transform="matrix(1 0 0 1 272.911 369.7306)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SDHZ'
+      >
+        50Hz
+      </text> -->
+    </g>
+    <g>
+      <text
+        transform="matrix(1 0 0 1 469.8465 391.4528)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        电池组
+      </text>
+      <g>
+        <path
+          fill="#0C0D27"
+          stroke="#007AFF"
+          stroke-width="2"
+          stroke-miterlimit="10"
+          d="M552.846,364.213
+				c0,6.048-4.894,10.951-10.931,10.951H433.778c-6.037,0-10.931-4.903-10.931-10.951v-34.098c0-6.048,4.894-10.951,10.931-10.951
+				h108.138c6.037,0,10.931,4.903,10.931,10.951v34.098H552.846z"
+        />
+        <g>
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_1_"
+                            x="536.561"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_2_">
+                          <use xlink:href="#SVGID_1_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_2_)"
+                          fill="#007AFF"
+                          d="M538.782,333.34v2.22h4.885v-2.22H538.782z M538.782,336.892v2.22
+												h4.885v-2.22H538.782z M538.782,340.445v2.22h4.885v-2.22H538.782z M538.782,330.676h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885L538.782,330.676L538.782,330.676z M544.554,332.008v11.99h-6.661v-11.99H544.554z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="545.896" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_3_"
+                            x="521.225"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_4_">
+                          <use xlink:href="#SVGID_3_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_4_)"
+                          fill="#007AFF"
+                          d="M523.446,333.34v2.22h4.885v-2.22H523.446z M523.446,336.892v2.22
+												h4.885v-2.22H523.446z M523.446,340.445v2.22h4.885v-2.22H523.446z M523.446,330.676h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885L523.446,330.676L523.446,330.676z M529.218,332.008v11.99h-6.661v-11.99H529.218z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="530.561" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_5_"
+                            x="505.89"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_6_">
+                          <use xlink:href="#SVGID_5_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_6_)"
+                          fill="#007AFF"
+                          d="M508.11,333.34v2.22h4.885v-2.22H508.11z M508.11,336.892v2.22h4.885
+												v-2.22H508.11z M508.11,340.445v2.22h4.885v-2.22H508.11z M508.11,330.676h-2.221v14.654h9.325v-14.654h-2.22v-1.332
+												h-4.885L508.11,330.676L508.11,330.676z M513.883,332.008v11.99h-6.661v-11.99H513.883z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="515.225" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_7_"
+                            x="490.554"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_8_">
+                          <use xlink:href="#SVGID_7_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_8_)"
+                          fill="#007AFF"
+                          d="M492.775,333.34v2.22h4.885v-2.22H492.775z M492.775,336.892v2.22
+												h4.885v-2.22H492.775z M492.775,340.445v2.22h4.885v-2.22H492.775z M492.775,330.676h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H492.775z M498.547,332.008v11.99h-6.661v-11.99H498.547z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="499.89" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_9_"
+                            x="475.219"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_10_">
+                          <use xlink:href="#SVGID_9_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_10_)"
+                          fill="#007AFF"
+                          d="M477.439,333.34v2.22h4.885v-2.22H477.439z M477.439,336.892v2.22
+												h4.885v-2.22H477.439z M477.439,340.445v2.22h4.885v-2.22H477.439z M477.439,330.676h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H477.439z M483.212,332.008v11.99h-6.661v-11.99H483.212z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="484.554" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_11_"
+                            x="459.883"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_12_">
+                          <use xlink:href="#SVGID_11_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_12_)"
+                          fill="#007AFF"
+                          d="M462.104,333.34v2.22h4.885v-2.22H462.104z M462.104,336.892v2.22
+												h4.885v-2.22H462.104z M462.104,340.445v2.22h4.885v-2.22H462.104z M462.104,330.676h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H462.104z M467.876,332.008v11.99h-6.661v-11.99H467.876z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="469.219" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_13_"
+                            x="444.547"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_14_">
+                          <use xlink:href="#SVGID_13_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_14_)"
+                          fill="#007AFF"
+                          d="M446.768,333.34v2.22h4.885v-2.22H446.768z M446.768,336.892v2.22
+												h4.885v-2.22H446.768z M446.768,340.445v2.22h4.885v-2.22H446.768z M446.768,330.676h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H446.768z M452.54,332.008v11.99h-6.661v-11.99H452.54z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="453.883" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_15_"
+                            x="536.561"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_16_">
+                          <use xlink:href="#SVGID_15_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_16_)"
+                          fill="#007AFF"
+                          d="M538.782,352.973v2.22h4.885v-2.22H538.782z M538.782,356.525v2.22
+												h4.885v-2.22H538.782z M538.782,360.078v2.22h4.885v-2.22H538.782z M538.782,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885L538.782,350.308L538.782,350.308z M544.554,351.64v11.99h-6.661v-11.99H544.554z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="545.896" y="355.48" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_17_"
+                            x="521.225"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_18_">
+                          <use xlink:href="#SVGID_17_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_18_)"
+                          fill="#007AFF"
+                          d="M523.446,352.973v2.22h4.885v-2.22H523.446z M523.446,356.525v2.22
+												h4.885v-2.22H523.446z M523.446,360.078v2.22h4.885v-2.22H523.446z M523.446,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885L523.446,350.308L523.446,350.308z M529.218,351.64v11.99h-6.661v-11.99H529.218z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="530.561" y="355.48" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_19_"
+                            x="505.89"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_20_">
+                          <use xlink:href="#SVGID_19_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_20_)"
+                          fill="#007AFF"
+                          d="M508.11,352.973v2.22h4.885v-2.22H508.11z M508.11,356.525v2.22
+												h4.885v-2.22H508.11z M508.11,360.078v2.22h4.885v-2.22H508.11z M508.11,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885L508.11,350.308L508.11,350.308z M513.883,351.64v11.99h-6.661v-11.99H513.883z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="515.225" y="355.48" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_21_"
+                            x="490.554"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_22_">
+                          <use xlink:href="#SVGID_21_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_22_)"
+                          fill="#007AFF"
+                          d="M492.775,352.973v2.22h4.885v-2.22H492.775z M492.775,356.525v2.22
+												h4.885v-2.22H492.775z M492.775,360.078v2.22h4.885v-2.22H492.775z M492.775,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H492.775z M498.547,351.64v11.99h-6.661v-11.99H498.547z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="499.89" y="355.48" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_23_"
+                            x="475.219"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_24_">
+                          <use xlink:href="#SVGID_23_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_24_)"
+                          fill="#007AFF"
+                          d="M477.439,352.973v2.22h4.885v-2.22H477.439z M477.439,356.525v2.22
+												h4.885v-2.22H477.439z M477.439,360.078v2.22h4.885v-2.22H477.439z M477.439,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H477.439z M483.212,351.64v11.99h-6.661v-11.99H483.212z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="484.554" y="355.48" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_25_"
+                            x="459.883"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_26_">
+                          <use xlink:href="#SVGID_25_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_26_)"
+                          fill="#007AFF"
+                          d="M462.104,352.973v2.22h4.885v-2.22H462.104z M462.104,356.525v2.22
+												h4.885v-2.22H462.104z M462.104,360.078v2.22h4.885v-2.22H462.104z M462.104,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H462.104z M467.876,351.64v11.99h-6.661v-11.99H467.876z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="469.219" y="355.48" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_27_"
+                            x="444.547"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_28_">
+                          <use xlink:href="#SVGID_27_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_28_)"
+                          fill="#007AFF"
+                          d="M446.768,352.973v2.22h4.885v-2.22H446.768z M446.768,356.525v2.22
+												h4.885v-2.22H446.768z M446.768,360.078v2.22h4.885v-2.22H446.768z M446.768,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H446.768z M452.54,351.64v11.99h-6.661v-11.99H452.54z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="453.883" y="355.48" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_29_"
+                            x="429.212"
+                            y="329.347"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_30_">
+                          <use xlink:href="#SVGID_29_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_30_)"
+                          fill="#007AFF"
+                          d="M431.432,333.34v2.22h4.885v-2.22H431.432z M431.432,336.892v2.22
+												h4.885v-2.22H431.432z M431.432,340.445v2.22h4.885v-2.22H431.432z M431.432,330.676h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H431.432z M437.205,332.008v11.99h-6.661v-11.99H437.205z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="438.547" y="335.847" fill="#007AFF" width="6" height="3" />
+          <g>
+            <g>
+              <g>
+                <g>
+                  <g>
+                    <g>
+                      <g>
+                        <defs>
+                          <rect
+                            id="SVGID_31_"
+                            x="429.212"
+                            y="348.98"
+                            width="9.336"
+                            height="16"
+                          />
+                        </defs>
+                        <clipPath id="SVGID_32_">
+                          <use xlink:href="#SVGID_31_" overflow="visible" />
+                        </clipPath>
+                        <path
+                          clip-path="url(#SVGID_32_)"
+                          fill="#007AFF"
+                          d="M431.432,352.973v2.22h4.885v-2.22H431.432z M431.432,356.525v2.22
+												h4.885v-2.22H431.432z M431.432,360.078v2.22h4.885v-2.22H431.432z M431.432,350.308h-2.221v14.654h9.325v-14.654h-2.22
+												v-1.332h-4.885v1.332H431.432z M437.205,351.64v11.99h-6.661v-11.99H437.205z"
+                        />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <rect x="438.547" y="355.48" fill="#007AFF" width="6" height="3" />
+        </g>
+      </g>
+    </g>
+    <g>
+      <text
+        transform="matrix(1 0 0 1 565.2134 326.4376)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        储能SOC：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 565.2134 350.4376)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        储能工作状态：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 565.2134 374.4376)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        充放电状态：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 636.1966 326.4464)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='SOC'
+      >
+        80.9%
+      </text>
+      <text
+        transform="matrix(1 0 0 1 665.7966 350.1935)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='CNGZ'
+      >
+        运行中
+      </text>
+      <text
+        transform="matrix(1 0 0 1 646.7966 374.1935)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='CFD'
+      >
+        充电
+      </text>
+    </g>
+    <g>
+      <text
+        transform="matrix(1 0 0 1 529.0295 62.2131)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        累计充电量：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 529.0295 86.2131)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        累计放电量：
+      </text>
+      <text
+        transform="matrix(1 0 0 1 610.6127 62.2219)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='LJCD'
+      >
+        80.9kWh
+      </text>
+      <text
+        transform="matrix(1 0 0 1 610.6127 85.969)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='LJFD'
+      >
+        80.9kWh
+      </text>
+    </g>
+    <g>
+      <path
+        fill="#0C0D27"
+        stroke="#007AFF"
+        stroke-width="2"
+        stroke-miterlimit="10"
+        d="M527.9,186.865c0,6.075-4.925,11-11,11h-85.75
+			c-6.075,0-11-4.925-11-11v-20.25c0-6.075,4.925-11,11-11h85.75c6.075,0,11,4.925,11,11V186.865z"
+      />
+      <text
+        transform="matrix(1 0 0 1 456.8391 183.965)"
+        fill="#007AFF"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="18"
+        class='textFz'
+      >
+        PCS
+      </text>
+      <rect x="507.75" y="156.278" fill="#007AFF" width="2" height="40.833" />
+      <rect x="434.833" y="156.278" fill="#007AFF" width="2" height="40.833" />
+    </g>
+    <g>
+      <text
+        transform="matrix(1 0 0 1 545.2209 165.8957)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        交流侧电压
+      </text>
+      <text
+        transform="matrix(1 0 0 1 539.5679 185.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLUA'
+      >
+        UA：220V
+      </text>
+      <text
+        transform="matrix(1 0 0 1 540.0469 203.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLUB'
+      >
+        UB：220V
+      </text>
+      <text
+        transform="matrix(1 0 0 1 540.1179 221.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLUC'
+      >
+        UC：220V
+      </text>
+      <text
+        transform="matrix(1 0 0 1 642.4707 165.8957)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        交流侧电流
+      </text>
+      <text
+        transform="matrix(1 0 0 1 646.8767 185.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLIA'
+      >
+        IA: 10A
+      </text>
+      <text
+        transform="matrix(1 0 0 1 647.3557 203.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLIB'
+      >
+        IB: 10A
+      </text>
+      <text
+        transform="matrix(1 0 0 1 647.4277 221.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLIC'
+      >
+        IC: 10A
+      </text>
+      <text
+        transform="matrix(1 0 0 1 745 165.8957)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        交流侧功率
+      </text>
+      <text
+        transform="matrix(1 0 0 1 733.311 185.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLAX'
+      >
+        A相：50 kW
+      </text>
+      <text
+        transform="matrix(1 0 0 1 733.79 203.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLBX'
+      >
+        B相：50 kW
+      </text>
+      <text
+        transform="matrix(1 0 0 1 733.861 221.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLCX'
+      >
+        C相：50 kW
+      </text>
+      <text
+        transform="matrix(1 0 0 1 731.575 239.4075)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei-Bold'"
+        font-size="14"
+        class='JLALLX'
+      >
+        总和：50 kW
+      </text>
+      <text
+        transform="matrix(1 0 0 1 843.9197 165.8957)"
+        fill="#84A0B6"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+      >
+        交流侧频率
+      </text>
+      <text
+        transform="matrix(1 0 0 1 854.1656 185.6605)"
+        fill="#00A0E9"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+        class='JLHZA'
+      >50Hz</text>
+    </g>
+    <g>
+      <g>
+        <polyline
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          points="
+				443.206,59.872 444.047,56.981 446.337,54.995 449.329,54.555 452.095,55.819 453.717,58.365 453.717,61.395 452.095,63.945 
+				449.329,65.188 446.337,64.766 444.047,62.78 443.206,59.872 			"
+        />
+        <rect
+          x="448.242"
+          y="51.827"
+          fill="#00FF00"
+          width="0.642"
+          height="16.11"
+        />
+        <rect
+          x="448.242"
+          y="51.827"
+          fill="#15833B"
+          width="0.642"
+          height="16.11"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="453.936"
+          y1="59.872"
+          x2="459.293"
+          y2="59.872"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="457.033"
+          y1="62.56"
+          x2="459.421"
+          y2="57.203"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="454.781"
+          y1="62.56"
+          x2="457.168"
+          y2="57.203"
+        />
+
+        <polyline
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          points="
+				443.206,75.982 444.047,73.074 446.337,71.105 449.329,70.666 452.095,71.929 453.717,74.476 453.717,77.485 452.095,80.035 
+				449.329,81.298 446.337,80.856 444.047,78.89 443.206,75.982 			"
+        />
+        <rect
+          x="448.242"
+          y="67.937"
+          fill="#00FF00"
+          width="0.642"
+          height="16.09"
+        />
+        <rect
+          x="448.242"
+          y="67.937"
+          fill="#15833B"
+          width="0.642"
+          height="16.09"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="453.936"
+          y1="75.982"
+          x2="459.293"
+          y2="75.982"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="457.033"
+          y1="78.671"
+          x2="459.421"
+          y2="73.294"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="454.781"
+          y1="78.671"
+          x2="457.168"
+          y2="73.294"
+        />
+      </g>
+      <g>
+        <polyline
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          points="
+				471.206,59.872 472.047,56.981 474.337,54.995 477.33,54.555 480.096,55.819 481.717,58.365 481.717,61.395 480.096,63.945 
+				477.33,65.188 474.337,64.766 472.047,62.78 471.206,59.872 			"
+        />
+        <rect
+          x="476.242"
+          y="51.827"
+          fill="#00FF00"
+          width="0.642"
+          height="16.11"
+        />
+        <rect
+          x="476.242"
+          y="51.827"
+          fill="#15833B"
+          width="0.642"
+          height="16.11"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="481.937"
+          y1="59.872"
+          x2="487.293"
+          y2="59.872"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="485.034"
+          y1="62.56"
+          x2="487.422"
+          y2="57.203"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="482.781"
+          y1="62.56"
+          x2="485.169"
+          y2="57.203"
+        />
+
+        <polyline
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          points="
+				471.206,75.982 472.047,73.074 474.337,71.105 477.33,70.666 480.096,71.929 481.717,74.476 481.717,77.485 480.096,80.035 
+				477.33,81.298 474.337,80.856 472.047,78.89 471.206,75.982 			"
+        />
+        <rect
+          x="476.242"
+          y="67.937"
+          fill="#00FF00"
+          width="0.642"
+          height="16.09"
+        />
+        <rect
+          x="476.242"
+          y="67.937"
+          fill="#15833B"
+          width="0.642"
+          height="16.09"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="481.937"
+          y1="75.982"
+          x2="487.293"
+          y2="75.982"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="485.034"
+          y1="78.671"
+          x2="487.422"
+          y2="73.294"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="482.781"
+          y1="78.671"
+          x2="485.169"
+          y2="73.294"
+        />
+      </g>
+      <g>
+        <polyline
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          points="
+				497.456,59.872 498.297,56.981 500.587,54.995 503.58,54.555 506.346,55.819 507.967,58.365 507.967,61.395 506.346,63.945 
+				503.58,65.188 500.587,64.766 498.297,62.78 497.456,59.872 			"
+        />
+        <rect
+          x="502.492"
+          y="51.827"
+          fill="#00FF00"
+          width="0.642"
+          height="16.11"
+        />
+        <rect
+          x="502.492"
+          y="51.827"
+          fill="#15833B"
+          width="0.642"
+          height="16.11"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="508.187"
+          y1="59.872"
+          x2="513.543"
+          y2="59.872"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="511.284"
+          y1="62.56"
+          x2="513.672"
+          y2="57.203"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="509.031"
+          y1="62.56"
+          x2="511.419"
+          y2="57.203"
+        />
+
+        <polyline
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          points="
+				497.456,75.982 498.297,73.074 500.587,71.105 503.58,70.666 506.346,71.929 507.967,74.476 507.967,77.485 506.346,80.035 
+				503.58,81.298 500.587,80.856 498.297,78.89 497.456,75.982 			"
+        />
+        <rect
+          x="502.492"
+          y="67.937"
+          fill="#00FF00"
+          width="0.642"
+          height="16.09"
+        />
+        <rect
+          x="502.492"
+          y="67.937"
+          fill="#15833B"
+          width="0.642"
+          height="16.09"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="508.187"
+          y1="75.982"
+          x2="513.543"
+          y2="75.982"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="511.284"
+          y1="78.671"
+          x2="513.672"
+          y2="73.294"
+        />
+
+        <line
+          fill="none"
+          stroke="#999999"
+          stroke-width="0.8444"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-miterlimit="10"
+          x1="509.031"
+          y1="78.671"
+          x2="511.419"
+          y2="73.294"
+        />
+      </g>
+    </g>
+    <g>
+      <path
+        fill="#10914A"
+        d="M1529.167,66.921c0,0.552-0.448,1-1,1h-39.333c-0.552,0-1-0.448-1-1v-19c0-0.552,0.448-1,1-1h39.333
+			c0.552,0,1,0.448,1,1V66.921z"
+      />
+      <text
+        transform="matrix(1 0 0 1 1496.5 61.6711)"
+        fill="#FFFFFF"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+        class='switchOn curp'
+      >
+        合闸
+      </text>
+    </g>
+    <g>
+      <path
+        fill="#CE206F"
+        d="M1529.167,95.588c0,0.552-0.448,1-1,1h-39.333c-0.552,0-1-0.448-1-1v-19c0-0.552,0.448-1,1-1h39.333
+			c0.552,0,1,0.448,1,1V95.588z"
+      />
+      <text
+        transform="matrix(1 0 0 1 1496.5 90.3378)"
+        fill="#FFFFFF"
+        font-family="'MicrosoftYaHei'"
+        font-size="12"
+        class='opening curp'
+      >
+        分闸
+      </text>
+    </g>
+  </g>
+</svg>
